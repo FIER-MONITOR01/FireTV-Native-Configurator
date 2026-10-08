@@ -32,7 +32,24 @@ Both UI issues are planned for improvement in the next update.
 
 ## Screenshots
 
-Screenshots will be added here.
+### Main Screen
+![Main Screen](01-main.png)
+
+### Remote Button Mapping
+![Remote Mapping](02-remote-mapping.png)
+![Remote Mapping Details](02b-remote-mapping-lower.png)
+
+### App Selection
+![App Selection](03-remote-app-selection.png)
+
+### HOME Launcher
+![HOME Launcher](04-home-launcher.png)
+
+### Confirmation
+![Confirmation](05-confirmation.png)
+
+### Publication
+![Publication](06-publication.png)
 
 ## Beta Testing
 
